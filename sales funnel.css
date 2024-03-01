@@ -1,0 +1,415 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family:sans-serif;
+}
+.head{
+    min-height:54vh;
+    width:100%;
+    background-color:#000080;
+    background-position:center;
+}
+.heading{
+    padding-top:50pt;
+}
+
+.header h1{
+    text-align:center;
+    font:14.5pt arial, sans seriff;
+    font-weight:bold;
+    color:white;
+    background-color: red;
+    padding-top:23pt;
+      padding-bottom:23pt;
+      margin:0 260pt;
+}
+.under h2{
+    text-align:center;
+    font:26pt arial, sans seriff;
+    font-weight:bold;
+    color:#f1c40f;
+    margin-top:37pt;
+}
+        /*  head section End */
+/* about Section Start */
+
+.about{
+    min-height:1210vh;
+    width:100%;
+    background-color: white;
+    background-position:center;
+    background-size:cover;
+}
+.straight img{
+    margin-left:280pt;
+    margin-top:35pt;
+}
+.open{
+    margin-top:50pt;
+}
+
+.system-col a{
+    color:white;
+    background-color:red;
+    font:15pt arial, sans seriff;
+    font-weight:bold;
+    padding-top:20pt;
+    padding-bottom:20pt;
+    padding-left:33pt;
+    padding-right: 33pt;
+    text-decoration:none;
+    margin-left:360pt;
+}
+.previous h2{
+    text-align:center;
+    font:14pt arial;
+    margin-top:80pt;
+}
+.on h1{
+    text-align:center;
+    margin-top:50pt;
+    font-weight: lighter;
+}
+.print h1{
+    background-color: #d4e6f1;
+    text-align:center;
+    margin-top:30pt;
+    margin-left:230pt;
+    color:#d4e6f1;
+    border-radius:500px;
+    border: 7px dashed    #5499c7 ;
+    padding-top:300pt;
+    width:700px;
+    height:1700px;
+}
+    .none h3{
+        text-align:center;
+        font:22pt arial;
+        font-weight:bold;
+        margin-top:-1250pt;
+    }
+    .none img{
+        margin-left:275pt;
+        margin-top:50pt;
+    }
+    .put img{
+        margin-left:280pt;
+        margin-top:40pt;
+    }
+    .opened{
+        margin-top:170pt;
+    }
+
+    .system-pul a{
+        color:white;
+        background-color:red;
+        font:15pt arial, sans seriff;
+        font-weight:bold;
+        padding-top:20pt;
+        padding-bottom:20pt;
+        padding-left:33pt;
+        padding-right: 33pt;
+        text-decoration:none;
+        margin-left:380pt;
+    }
+    .plait h2{
+        text-align:center;
+        font:20pt arial, sans seriff;
+        margin-top:60pt;
+        font-weight:bolder;
+    }
+    .plait img{
+        margin-left:330pt;
+        margin-top:40pt;
+    }
+    .setup video{
+        margin-left:250pt;
+        height:500px;
+        width:700px;
+    }
+    .opener{
+        margin-top:80pt;
+    }
+
+    .system-set a{
+        color:white;
+        background-color:red;
+        font:15pt arial, sans seriff;
+        font-weight:bold;
+        padding-top:20pt;
+        padding-bottom:20pt;
+        padding-left:33pt;
+        padding-right: 33pt;
+        text-decoration:none;
+        margin-left:380pt;
+    }
+    .plaited h1{
+        text-align:center;
+        font:20pt arial, sans seriff;
+        margin-top:60pt;
+        font-weight:bolder;
+    }
+    .lone img{
+        margin-left:330pt;
+        margin-top:40pt;
+    }
+    .loner video{
+        margin-left:250pt;
+        margin-top:30pt;
+        height:500px;
+        width:700px;
+    }
+    .biz h3{
+        font:13pt arial;
+        margin-top:50pt;
+        margin-left:289pt;
+    }
+    .benefits h1{
+        margin-left:380pt;
+        font:20pt arial;
+        font-weight:bold;
+        margin-top: 40pt;
+    }
+    .ending h2{
+        font:14.5pt arial;
+        margin-top:50pt;
+        margin-left:289pt;  
+    }
+    .get{
+        margin-top:80pt;
+    }
+
+    .set a{
+        color:white;
+        background-color:red;
+        font:15pt arial, sans seriff;
+        font-weight:bold;
+        padding-top:20pt;
+        padding-bottom:20pt;
+        padding-left:33pt;
+        padding-right: 33pt;
+        text-decoration:none;
+        margin-left:380pt;
+    }
+    .off h1{
+        text-align:center;
+        margin-top:50pt;
+        font-weight: lighter;
+    }
+    .view h1{
+        font:13pt arial;
+        margin-top:20pt;
+        margin-left:350pt;
+    }
+
+    @media only screen and (min-width:600px){
+        *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family:sans-serif;
+         }
+         .head{
+             min-height:38vh;
+             
+             min-width:100vh;
+             background-color:#000080;
+             background-position:center;
+             background-size: cover;
+             
+         }
+         .heading{
+             padding-top:50pt;
+         }
+         
+         .header h1{
+             text-align:center;
+             font:24pt arial, sans seriff;
+             font-weight:bold;
+             color:white;
+             background-color: red;
+             padding-top:23pt;
+               padding-bottom:23pt;
+               margin:0 150pt;
+         }
+         .under h2{
+             text-align:center;
+             font:22pt arial, sans seriff;
+             font-weight:bold;
+             color:#f1c40f;
+             margin-top:37pt;
+         }
+                 /*  head section End */
+         /* about Section Start */
+         
+         .about{
+             min-height:560vh;
+             width:100%;
+             background-color: white;
+             background-position:center;
+             background-size:cover;
+         }
+         .straight img{
+             margin-left:280pt;
+             margin-top:35pt;
+         }
+         .open{
+             margin-top:50pt;
+         }
+         
+         .system-col a{
+             color:white;
+             background-color:red;
+             font:15pt arial, sans seriff;
+             font-weight:bold;
+             padding-top:20pt;
+             padding-bottom:20pt;
+             padding-left:33pt;
+             padding-right: 33pt;
+             text-decoration:none;
+             margin-left:340pt;
+         }
+         .previous h2{
+             font:14pt arial;
+             margin-top:80pt;
+             margin-left:350px;
+         }
+         .on h1{
+             margin-left:250px;
+             margin-top:50pt;
+             font-weight: lighter;
+         }
+         .print h1{
+             background-color: #d4e6f1;
+             text-align:center;
+             margin-top:30pt;
+             margin-left:230pt;
+             color:#d4e6f1;
+             border-radius:500px;
+             border: 7px dashed    #5499c7 ;
+             padding-top:300pt;
+             width:700px;
+             height:1700px;
+         }
+             .none h3{
+                 margin-left:350px;
+                 font:22pt arial;
+                 font-weight:bold;
+                 margin-top:-1250pt;
+             }
+             .none img{
+                 margin-left:275pt;
+                 margin-top:50pt;
+             }
+             .put img{
+                 margin-left:280pt;
+                 margin-top:10pt;
+             }
+             .opened{
+                 margin-top:170pt;
+             }
+         
+             .system-col a{
+                 color:white;
+                 background-color:red;
+                 font:15pt arial, sans seriff;
+                 font-weight:bold;
+                 padding-top:20pt;
+                 padding-bottom:20pt;
+                 padding-left:33pt;
+                 padding-right: 33pt;
+                 text-decoration:none;
+                 margin-left:380pt;
+             }
+             .plait h2{
+                 text-align:center;
+                 font:20pt arial, sans seriff;
+                 margin-top:60pt;
+                 font-weight:bolder;
+                 margin-left:280px;
+             }
+             .plait img{
+                 margin-left:330pt;
+                 margin-top:40pt;
+             }
+             .setup video{
+                 margin-left:250pt;
+                 height:500px;
+                 width:700px;
+             }
+             .opener{
+                 margin-top:80pt;
+             }
+         
+             .system-col a{
+                 color:white;
+                 background-color:red;
+                 font:15pt arial, sans seriff;
+                 font-weight:bold;
+                 padding-top:20pt;
+                 padding-bottom:20pt;
+                 padding-left:33pt;
+                 padding-right: 33pt;
+                 text-decoration:none;
+                 margin-left:300pt;
+             }
+             .plaited h1{
+                 font:29pt arial, sans seriff;
+                 font-weight:bolder;
+                 margin-left:300px;
+                 
+             }
+             .lone img{
+                 margin-left:330pt;
+                 margin-top:40pt;
+             }
+             .loner video{
+                 margin-left:250pt;
+                 margin-top:30pt;
+                 height:500px;
+                 width:700px;
+             }
+             .biz h3{
+                font:24pt arial;
+                margin-top:50pt;
+                margin-left:50pt;
+             }
+             .benefits h1{
+                text-align:center;
+                 font:20pt arial;
+                 font-weight:bold;
+    
+             }
+             .ending h2{
+                 font:24pt arial;
+                 margin-top:50pt;
+                 margin-left:50pt;  
+             }
+             .get{
+                 margin-top:80pt;
+             }
+         
+             .set a{
+                 color:white;
+                 background-color:red;
+                 font:15pt arial, sans seriff;
+                 font-weight:bold;
+                 padding-top:20pt;
+                 padding-bottom:20pt;
+                 padding-left:33pt;
+                 padding-right: 33pt;
+                 text-decoration:none;
+                 margin-left:380pt;
+             }
+             .off h1{
+                 text-align:center;
+                 margin-top:50pt;
+                 font-weight: lighter;
+             }
+             .view h1{
+                 font:22pt arial;
+                 margin-top:20pt;
+                 margin-left:350pt;
+             }
+         
